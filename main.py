@@ -3,7 +3,7 @@ import requests
 import jsons
 from Class_ModelResponse import ModelResponse
 
-API_TOKEN = '7993646962:AAFBKd_Ul9Uq6JFA6VdBOH2-Nln_iZRlQsw'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 user_contexts = {}
